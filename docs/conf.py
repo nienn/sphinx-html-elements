@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Coisas de Ben'
+project = 'Sphinx html elements'
 copyright = '2021, Ana Costa'
 author = 'Ana Costa'
 
