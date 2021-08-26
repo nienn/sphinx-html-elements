@@ -10,6 +10,20 @@ Just wait and see. It will be wonderful! There will be tables, and images, and l
 There, just wait and see!
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 1
+    :numbered:
+    :caption: Demo Sphinx html Elements
+    :hidden:
 
-   places/parks
+    .. demo/interactive-elements
+    demo/sectioning
+    Headings <demo/headings>
+    .. demo/inline-markup + <del><ins>
+    .. demo/block-text-Elements
+    .. demo/tables
+    demo/alerts
+    .. demo/multimedia
+    .. demo/embedded-content
+    .. demo/mathml
+
+    .. demo/deprecated-elements
